@@ -20,7 +20,7 @@
  Atualmente estou aprendendo a desenvolver sites, sou um iniciante na programação! Cada dia mais aprendo tecnologias novas e aprimoro-me.
 
 ## Certificado
- <a href="betry.be/badges/8FCOFCE6612A" target="_blank" rel="next">
+ <a href="https://betry.be/badges/8FCOFCE6612A" target="_blank" rel="next">
 
  ## E-mail para contato:
  wellyson140hz@gmail.com
