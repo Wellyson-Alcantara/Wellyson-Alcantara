@@ -18,8 +18,9 @@
 </div><br/>
 
  Atualmente estou aprendendo a desenvolver sites, sou um iniciante na programação! Cada dia mais aprendo tecnologias novas e aprimoro-me.
- <img aling="center" alt="certificado" src="![Antonio-Wellyson-Alcântara-De-Souza](https://github.com/Wellyson-Alcantara/Wellyson-Alcantara/assets/146300371/824de108-40e9-4b1e-ad43-d5cdbfc21056)">
-"
+ 
+ <img aling="center" alt="certificado" src="![Antonio-Wellyson-Alcântara-De-Souza](https://github.com/Wellyson-Alcantara/Wellyson-Alcantara/assets/146300371/757a3a82-dc74-4e42-ab12-7d0e46748311)
+">
 
  ## E-mail para contato:
  wellyson140hz@gmail.com
