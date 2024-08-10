@@ -18,7 +18,7 @@
     <img aling="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
- Atualmente estou aprendendo a desenvolver sites, sou um iniciante na programação! Cada dia mais aprendo tecnologias novas e aprimoro-me.
+ Sou um Dev Front-End iniciante! Possuo algum conhecimento em HTML, CSS, JAVASCRIPT, PHP, GIT, GITHUB, MYSQL, WORDPRESS... Tudo muito raso, porém persisto na busca de aprimoramento!
 
 
  ## E-mail para contato:
