@@ -42,6 +42,6 @@
 
 ###
 
-![Snake animation](https://github.com/Wellyson-Alcantara/Wellyson-Alcantara/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Wellyson-Alcantara/Wellyson-Alcantara/blob/output/github-contribution-grid-snake.gif)
 
 ###
