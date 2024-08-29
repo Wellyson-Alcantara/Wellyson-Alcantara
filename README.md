@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" <iframe src="https://imgur.com/gallery/goku-a1ir0Y6">  />
+<img align="right" height="150" src="https://imgur.com/gallery/goku-a1ir0Y6">  />
 
 ###
 
