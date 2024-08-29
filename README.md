@@ -47,10 +47,3 @@
 
 ###
 
-<h2>Número de acessos ao meu perfil!</h2>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Wellyson-Alcantara/count.svg?"  />
-</div>
-
-###
