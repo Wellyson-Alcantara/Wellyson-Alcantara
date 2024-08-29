@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/gallery/goku-a1ir0Y6">  />
+<img align="right" height="150" src="[https://imgur.com/gallery/goku-a1ir0Y6](https://giphy.com/gifs/ToeiAnimation-like-goku-dragon-ball-super-WUDGo9jYZzVt3DExhi)">  />
 
 ###
 
