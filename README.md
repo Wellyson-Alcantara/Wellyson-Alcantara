@@ -34,7 +34,7 @@
 <h2>Você pode me encontrar aqui!</h2>
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href=""><img src=""></a>
   <a href=""><img src=""></a>
   <a href=""><img src=""></a>
