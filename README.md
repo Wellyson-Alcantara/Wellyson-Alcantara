@@ -34,8 +34,8 @@
 <h2>Você pode me encontrar aqui!</h2>
 
 <div align="left">
-  <a href="wellyson140hz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href=""><img src=""></a>
+  <a href="wellyson140hz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/alcantarawellyson"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href=""><img src=""></a>
   <a href=""><img src=""></a>
   <a href=""><img src=""></a>
