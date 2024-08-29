@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é __Wellyson__ e eu sou um Desenvolvedor Front-And</h2>
+<h2 align="left">Oi 👋! Meu nome é <strong>Wellyson</strong> e eu sou um Desenvolvedor Front-And</h2>
 
 ###
 
