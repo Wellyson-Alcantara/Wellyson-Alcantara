@@ -1,4 +1,4 @@
-<h1 align="left">Oi 👋! Meu nome é <strong>Wellyson</strong> e eu sou um Desenvolvedor Front-And</h1>
+<h1 align="left">Oii 👋! Eu sou o Wellyson Alcântara, Desenvolvedor Front-And.</h1>
 
 ###
 
