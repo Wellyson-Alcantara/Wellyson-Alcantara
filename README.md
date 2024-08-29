@@ -50,3 +50,9 @@
 <img src="https://raw.githubusercontent.com/Wellyson-Alcantara/Wellyson-Alcantara/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Wellyson-Alcantara/count.svg?"  />
+</div>
+
+###
